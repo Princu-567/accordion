@@ -73,8 +73,13 @@ section {
     cursor: pointer;
 }
 
-.head:hover {
-    color: yellow;
+
+
+.accordion-item {
+    position: relative;
 }
-
-
+.arrow{
+    position: absolute;
+    top: 40%;
+    left: 95%;
+}
