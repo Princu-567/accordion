@@ -78,24 +78,3 @@ section {
 }
 
 
-.arrow {
-    position: absolute;
-    left: 81%;
-    top: 14%;
-}
-
-.arrow-2 {
-    position: absolute;
-    top: 27%;
-    left: 81%;
-}
-
-.arrow-3 {
-    position: absolute;
-    top: 40%;
-    left: 81%;
-}
-
-.arrow::content {
-    transform: rotate(180deg);
-}
